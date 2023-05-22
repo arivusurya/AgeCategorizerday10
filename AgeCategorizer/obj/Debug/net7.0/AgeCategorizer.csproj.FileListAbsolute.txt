@@ -1,0 +1,15 @@
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/bin/Debug/net7.0/AgeCategorizer
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/bin/Debug/net7.0/AgeCategorizer.deps.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/bin/Debug/net7.0/AgeCategorizer.runtimeconfig.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/bin/Debug/net7.0/AgeCategorizer.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/bin/Debug/net7.0/AgeCategorizer.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/AgeCategorizer.csproj.AssemblyReference.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/AgeCategorizer.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/AgeCategorizer.AssemblyInfoInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/AgeCategorizer.AssemblyInfo.cs
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/AgeCategorizer.csproj.CoreCompileInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/AgeCategorizer.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/refint/AgeCategorizer.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/AgeCategorizer.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/AgeCategorizer.genruntimeconfig.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/AgeDetermination/AgeCategorizer/obj/Debug/net7.0/ref/AgeCategorizer.dll
